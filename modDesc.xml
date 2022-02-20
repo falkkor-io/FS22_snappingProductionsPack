@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="63">
+    <author>Falkkor</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>Snapping Productions Pack</en>
+    </title>
+    <description>
+        <en><![CDATA[This mod pack for Farming Simulator 22 features the base game production buildings but set to snap at 45 degree angle rotations only. 
+        
+        Now you can finally achieve perfectly straight building placement on your farm!
+        
+        Included in this pack are ALL base game productions: 
+
+            - Factories:
+                - Bakery
+                - Carpentry
+                - Cereal Factory
+                - Dairy
+                - Grain Mill
+                - Oil Mill
+                - Grape Processing Unit
+                - Spinnery
+                - Tailor Shop
+                - BioGas Plants (99kw, 250kw and 500kw)
+            
+            - Selling Points:
+                - BioMass Heating Plant
+                - Debris Crusher
+                - Farmers Market
+                - Restaurant
+                - Fast Food Restaurant
+                - Pizzeria 
+                - Supermarket
+
+            - Greenhouses:
+                - Large Greenhouse
+                - Medium Greenhouse
+                - Small Greenhouse
+
+        ]]></en>
+    </description>
+    <iconFilename>store_snappingProductionsPack.png</iconFilename>
+    <multiplayer supported="true" />
+    <storeItems>
+        <storeItem xmlFilename="factories/bakeryUS.xml"/>
+        <storeItem xmlFilename="factories/bakeryEU.xml"/>
+        <storeItem xmlFilename="factories/carpenterUS.xml"/>
+        <storeItem xmlFilename="factories/carpenterEU.xml"/>
+        <storeItem xmlFilename="factories/cerealFactory.xml"/>
+        <storeItem xmlFilename="factories/dairyEU.xml"/>
+        <storeItem xmlFilename="factories/dairyUS.xml"/>
+        <storeItem xmlFilename="factories/grainMill.xml"/>
+        <storeItem xmlFilename="factories/oilPlant.xml"/>
+        <storeItem xmlFilename="factories/raisinFactory.xml"/>
+        <storeItem xmlFilename="factories/spinneryEU.xml"/>
+        <storeItem xmlFilename="factories/spinneryUS.xml"/>
+        <storeItem xmlFilename="factories/sugarMill.xml"/>
+        <storeItem xmlFilename="factories/tailorShop.xml"/>
+        <storeItem xmlFilename="factories/bga99kw.xml"/>
+        <storeItem xmlFilename="factories/bga250kw.xml"/>
+        <storeItem xmlFilename="factories/bga500kw.xml"/>
+        <storeItem xmlFilename="sellingpoints/bhp.xml"/>
+        <storeItem xmlFilename="sellingpoints/debrisCrusher.xml"/>
+        <storeItem xmlFilename="sellingpoints/farmersMarket.xml"/>
+        <storeItem xmlFilename="sellingpoints/fastFoodRestaurant.xml"/>
+        <storeItem xmlFilename="sellingpoints/pizzeria.xml"/>
+        <storeItem xmlFilename="sellingpoints/restaurant.xml"/>
+        <storeItem xmlFilename="sellingpoints/supermarket.xml"/>
+        <storeItem xmlFilename="greenhouses/greenhouseLarge.xml"/>
+        <storeItem xmlFilename="greenhouses/greenhouseMedium.xml"/>
+        <storeItem xmlFilename="greenhouses/greenhouseSmall.xml"/>
+    </storeItems>
+    <l10n>
+		<text name="shopItem_bakery_snapping"><en>Bakery (Snapping)</en></text>
+		<text name="shopItem_carpentry_snapping"><en>Carpentry (Snapping)</en></text>
+		<text name="shopItem_dairy_snapping"><en>Dairy (Snapping)</en></text>
+		<text name="shopItem_grainMill_snapping"><en>Grain Mill (Snapping)</en></text>
+		<text name="shopItem_oilMill_snapping"><en>Oil Mill (Snapping)</en></text>
+		<text name="shopItem_cerealFactory_snapping"><en>Cereal Factory (Snapping)</en></text>
+		<text name="shopItem_grapeProcessing_snapping"><en>Grape Processing Unit (Snapping)</en></text>
+		<text name="shopItem_spinnery_snapping"><en>Spinnery (Snapping)</en></text>
+		<text name="shopItem_tailorShop_snapping"><en>Tailor Shop (Snapping)</en></text>
+		<text name="storeItem_planET_bga99kw_snapping"><en>BioGas Plant 99KW (Snapping)</en></text>
+        <text name="storeItem_planET_bga250kw_snapping"><en>BioGas Plant 250KW (Snapping)</en></text>
+		<text name="storeItem_planET_bga500kw_snapping"><en>BioGas Plant 500KW (Snapping)</en></text>
+		<text name="shopItem_bhp_snapping"><en>BioMass Heating Plant (Snapping)</en></text>
+		<text name="shopItem_debrisCrusher_snapping"><en>Debris Crusher (Snapping)</en></text>
+		<text name="shopItem_farmersMarket_snapping"><en>Farmers Market (Snapping)</en></text>
+		<text name="shopItem_fastFoodRestaurant_snapping"><en>Fast Food Restaurant (Snapping)</en></text>
+		<text name="shopItem_pizzeria_snapping"><en>Pizzeria (Snapping)</en></text>
+		<text name="shopItem_restaurant_snapping"><en>Restaurant (Snapping)</en></text>
+		<text name="shopItem_supermarket_snapping"><en>Supermarket (Snapping)</en></text>
+		<text name="shopItem_greenhouseLarge_snapping"><en>Large Greenhouse (Snapping)</en></text>
+        <text name="shopItem_greenhouseMedium_snapping"><en>Medium Greenhouse (Snapping)</en></text>
+		<text name="shopItem_greenhouseSmall_snapping"><en>Small Greenhouse (Snapping)</en></text>
+	</l10n>
+</modDesc>
