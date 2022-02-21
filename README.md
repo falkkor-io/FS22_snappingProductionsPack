@@ -1,4 +1,8 @@
-## This mod pack for Farming Simulator 22 features the base game production buildings but set to snap at 45 degree angle rotations only. Now you can finally achieve perfectly straight production building placement on your farm!
+# Snapping Productions Pack
+### This mod pack for Farming Simulator 22 features the base game production buildings but set to snap at 45 degree angle rotations only.
+#### Now you can finally achieve perfectly straight production building placement on your farm!
+
+#### Latest version can be downloaded here: [v1.0.0.0](https://falkkor.io/FS22_snappingProductionsPack.zip)
 
 ![Snapping Productions Pack Screenshot](/screenshots/snapping_productions_screen1.jpg)
 
